@@ -1,0 +1,94 @@
+---
+id: sm1-11
+name: Decidueye
+supertype: Pokémon
+subtypes:
+- Stage 2
+hp: '140'
+types:
+- Grass
+evolvesFrom: Dartrix
+attacks:
+- name: Leaf Blade
+  cost:
+  - Grass
+  convertedEnergyCost: 1
+  damage: 30+
+  text: Flip a coin. If heads, this attack does 30 more damage.
+- name: Brave Bird
+  cost:
+  - Grass
+  - Colorless
+  - Colorless
+  convertedEnergyCost: 3
+  damage: '120'
+  text: This Pokémon does 20 damage to itself.
+weaknesses:
+- type: Fire
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm1
+  name: Sun & Moon
+  series: Sun & Moon
+  printedTotal: 149
+  total: 173
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SUM
+  releaseDate: 2017/02/03
+  updatedAt: 2019/04/10 19:59:00
+  images:
+    symbol: https://images.pokemontcg.io/sm1/symbol.png
+    logo: https://images.pokemontcg.io/sm1/logo.png
+number: '11'
+artist: Kouki Saitou
+rarity: Rare
+flavorText: It fires arrow quills from its wings with such precision, they can pierce
+  a pebble at distances over a hundred yards.
+nationalPokedexNumbers:
+- 724
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm1/11.png
+  large: https://images.pokemontcg.io/sm1/11_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm1-11
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.05
+      mid: 0.2
+      high: 3.0
+      market: 0.16
+      directLow: 0.16
+    reverseHolofoil:
+      low: 0.15
+      mid: 0.31
+      high: 2.39
+      market: 0.32
+      directLow: 0.21
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm1-11
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.18
+    lowPrice: 0.02
+    trendPrice: 0.19
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.25
+    reverseHoloLow: 0.12
+    reverseHoloTrend: 0.64
+    lowPriceExPlus: 0.02
+    avg1: 0.15
+    avg7: 0.12
+    avg30: 0.2
+    reverseHoloAvg1: 0.15
+    reverseHoloAvg7: 0.48
+    reverseHoloAvg30: 0.59

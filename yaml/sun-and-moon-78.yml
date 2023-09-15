@@ -1,0 +1,89 @@
+---
+id: sm1-78
+name: Alolan Meowth
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Darkness
+evolvesTo:
+- Persian
+attacks:
+- name: Fury Swipes
+  cost: []
+  convertedEnergyCost: 0
+  damage: 10×
+  text: Flip 3 coins. This attack does 10 damage for each heads.
+weaknesses:
+- type: Fighting
+  value: "×2"
+resistances:
+- type: Psychic
+  value: "-20"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm1
+  name: Sun & Moon
+  series: Sun & Moon
+  printedTotal: 149
+  total: 173
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SUM
+  releaseDate: 2017/02/03
+  updatedAt: 2019/04/10 19:59:00
+  images:
+    symbol: https://images.pokemontcg.io/sm1/symbol.png
+    logo: https://images.pokemontcg.io/sm1/logo.png
+number: '78'
+artist: Kagemaru Himeno
+rarity: Common
+flavorText: This Pokémon was not originally found in Alola. Human actions caused a
+  surge in their numbers, and they went feral. They're prideful and crafty.
+nationalPokedexNumbers:
+- 52
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm1/78.png
+  large: https://images.pokemontcg.io/sm1/78_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm1-78
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.15
+      high: 3.0
+      market: 0.06
+      directLow: 0.06
+    reverseHolofoil:
+      low: 0.08
+      mid: 0.25
+      high: 11.0
+      market: 0.18
+      directLow: 0.15
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm1-78
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.07
+    lowPrice: 0.02
+    trendPrice: 0.07
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.26
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.34
+    lowPriceExPlus: 0.02
+    avg1: 0.06
+    avg7: 0.07
+    avg30: 0.07
+    reverseHoloAvg1: 0.25
+    reverseHoloAvg7: 0.41
+    reverseHoloAvg30: 0.34

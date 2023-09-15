@@ -1,0 +1,68 @@
+---
+id: sm1-130
+name: Repel
+supertype: Trainer
+subtypes:
+- Item
+rules:
+- Your opponent switches their Active Pokémon with 1 of their Benched Pokémon.
+- You may play as many Item cards as you like during your turn (before your attack).
+set:
+  id: sm1
+  name: Sun & Moon
+  series: Sun & Moon
+  printedTotal: 149
+  total: 173
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SUM
+  releaseDate: 2017/02/03
+  updatedAt: 2019/04/10 19:59:00
+  images:
+    symbol: https://images.pokemontcg.io/sm1/symbol.png
+    logo: https://images.pokemontcg.io/sm1/logo.png
+number: '130'
+artist: Yoshinobu Saito
+rarity: Uncommon
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm1/130.png
+  large: https://images.pokemontcg.io/sm1/130_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm1-130
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.17
+      high: 3.0
+      market: 0.07
+      directLow: 0.07
+    reverseHolofoil:
+      low: 0.01
+      mid: 0.25
+      high: 2.0
+      market: 0.14
+      directLow: 0.1
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm1-130
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.12
+    lowPrice: 0.02
+    trendPrice: 0.1
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.44
+    reverseHoloLow: 0.02
+    reverseHoloTrend: 0.36
+    lowPriceExPlus: 0.02
+    avg1: 0.05
+    avg7: 0.13
+    avg30: 0.1
+    reverseHoloAvg1: 0.25
+    reverseHoloAvg7: 0.36
+    reverseHoloAvg30: 0.31

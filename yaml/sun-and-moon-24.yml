@@ -1,0 +1,94 @@
+---
+id: sm1-24
+name: Litten
+supertype: Pokémon
+subtypes:
+- Basic
+hp: '70'
+types:
+- Fire
+evolvesTo:
+- Torracat
+attacks:
+- name: Bite
+  cost:
+  - Fire
+  convertedEnergyCost: 1
+  damage: '10'
+  text: ''
+- name: Flare
+  cost:
+  - Fire
+  - Colorless
+  convertedEnergyCost: 2
+  damage: '20'
+  text: ''
+weaknesses:
+- type: Water
+  value: "×2"
+retreatCost:
+- Colorless
+convertedRetreatCost: 1
+set:
+  id: sm1
+  name: Sun & Moon
+  series: Sun & Moon
+  printedTotal: 149
+  total: 173
+  legalities:
+    unlimited: Legal
+    expanded: Legal
+  ptcgoCode: SUM
+  releaseDate: 2017/02/03
+  updatedAt: 2019/04/10 19:59:00
+  images:
+    symbol: https://images.pokemontcg.io/sm1/symbol.png
+    logo: https://images.pokemontcg.io/sm1/logo.png
+number: '24'
+artist: Akira Komayama
+rarity: Common
+flavorText: While grooming itself, it builds up fur inside its stomach. It sets the
+  fur alight and spews fiery attacks, which change based on how it coughs.
+nationalPokedexNumbers:
+- 725
+legalities:
+  unlimited: Legal
+  expanded: Legal
+images:
+  small: https://images.pokemontcg.io/sm1/24.png
+  large: https://images.pokemontcg.io/sm1/24_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/sm1-24
+  updatedAt: 2023/09/15
+  prices:
+    normal:
+      low: 0.01
+      mid: 0.15
+      high: 3.01
+      market: 0.1
+      directLow: 
+    reverseHolofoil:
+      low: 0.12
+      mid: 0.29
+      high: 2.39
+      market: 0.29
+      directLow: 0.26
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/sm1-24
+  updatedAt: 2023/09/15
+  prices:
+    averageSellPrice: 0.12
+    lowPrice: 0.02
+    trendPrice: 0.2
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.45
+    reverseHoloLow: 0.08
+    reverseHoloTrend: 0.46
+    lowPriceExPlus: 0.02
+    avg1: 0.09
+    avg7: 0.13
+    avg30: 0.1
+    reverseHoloAvg1: 0.3
+    reverseHoloAvg7: 0.51
+    reverseHoloAvg30: 0.34
